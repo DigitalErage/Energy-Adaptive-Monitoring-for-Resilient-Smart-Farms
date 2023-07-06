@@ -1,0 +1,1 @@
+# Energy-Adaptive-Monitoring-for-Resilient-Smart-Farms
